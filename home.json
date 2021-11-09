@@ -1,23 +1,23 @@
   [
     
     {
-      firsttitle: "Exploring San Francisco", 
-      secondtitle: "Flash Sale",
-      description:'this is first section',
+      firsttitle: "Do you want to move your ", 
+      secondtitle: "Business Digitally?",
+      description:'Be degitalize your business',
       picture: "https://www.teahub.io/photos/full/90-906427_1920x1080-business-man-working-and-writing-in-laptop.jpg"
     },
 
     {
-      firsttitle: "Coffee the right way",
-      secondtitle: "Bid sale",
+      firsttitle: "Effective Solution",
+      secondtitle: "For every business",
       description:'this is second section',
       picture: "https://ak.picdn.net/shutterstock/videos/9707132/thumb/1.jpg"
     },
 
     {
-      firsttitle: "Best Piza food with cheese", 
-      secondtitle: "Full Pack 250 ₹/- ",
-      description:'this is third section',
+      firsttitle: "We bring your", 
+      secondtitle: "Ideas to life",
+      description:'We make it happen',
       picture: "https://wallpaperaccess.com/full/2776881.jpg"
     },
     
