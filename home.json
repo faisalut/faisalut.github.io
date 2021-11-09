@@ -1,38 +1,25 @@
   [
     
     {
-      "firsttitle": "Do you want to move your ", 
-      "secondtitle": "Business Digitally?",
-<<<<<<< HEAD
-      "description":'Be degitalize your business',
-=======
+      "firsttitle": "Do you want to move your Business", 
+      "secondtitle": "Digitally?",
       "description":"Be degitalize your business",
->>>>>>> 2ece92884225ef5f6e0827610bc10dd2831d2f38
       "picture": "https://www.teahub.io/photos/full/90-906427_1920x1080-business-man-working-and-writing-in-laptop.jpg"
     },
 
     {
-      "firsttitle": "Effective Solution",
-      "secondtitle": "For every business",
-<<<<<<< HEAD
-      "description":'this is second section',
-=======
+      "firsttitle": "Effective Solution for",
+      "secondtitle": "Every business",
       "description":"this is second section",
->>>>>>> 2ece92884225ef5f6e0827610bc10dd2831d2f38
       "picture": "https://ak.picdn.net/shutterstock/videos/9707132/thumb/1.jpg"
     },
 
     {
       "firsttitle": "We bring your", 
       "secondtitle": "Ideas to life",
-<<<<<<< HEAD
-      "description":'We make it happen',
-      "picture": "https://ak.picdn.net/shutterstock/videos/9707132/thumb/1.jpg"
-    },
-=======
       "description":"We make it happen",
       "picture": "https://ak.picdn.net/shutterstock/videos/9707132/thumb/1.jpg"
     }
->>>>>>> 2ece92884225ef5f6e0827610bc10dd2831d2f38
+
     
   ]
