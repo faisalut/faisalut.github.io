@@ -1,0 +1,72 @@
+ [
+ 	[
+
+ 		{
+ 			"id": 1,
+ 			"icon": "fa fa-laptop"
+ 		},
+
+ 		{
+ 			"id": 2,
+ 			"icon": "fa fa-desktop"
+ 		},
+
+ 		{
+ 			"id": 3,
+ 			"icon": "fa fa-mobile"
+ 		},
+
+ 		{
+ 			"id": 4,
+ 			"icon": "fa fa-laptop"
+ 		},
+
+ 		{
+ 			"id": 5,
+ 			"icon": "fa fa-delicious"
+ 		},
+
+ 		{
+ 			"id": 6,
+ 			"icon": "fa fa-bullhorn"
+
+ 		}
+ 	],
+ 	[
+
+ 		{
+ 			"id": 1,
+ 			"name": "E-commerce Development",
+ 			"desc": "desc"
+ 		},
+
+ 		{
+ 			"id": 1,
+ 			"name": "Software Development",
+ 			"desc": "desc"
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "Mobile App Development",
+ 			"desc": "desc"
+ 		},
+
+ 		{
+ 			"id": 1,
+ 			"name": "Website Development",
+ 			"desc": "desc"
+ 		},
+ 		{
+ 			"id": 1,
+ 			"name": "UI Design",
+ 			"desc": "desc"
+ 		},
+
+ 		{
+ 			"id": 1,
+ 			"name": "Degital Marketing",
+ 			"desc": "desc"
+ 		}
+ 	]
+
+ ]
