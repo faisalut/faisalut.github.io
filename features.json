@@ -41,29 +41,29 @@
  		},
 
  		{
- 			"id": 1,
+ 			"id": 2,
  			"name": "Software Development",
  			"desc": "desc"
  		},
  		{
- 			"id": 1,
+ 			"id": 3,
  			"name": "Mobile App Development",
  			"desc": "desc"
  		},
 
  		{
- 			"id": 1,
+ 			"id": 4,
  			"name": "Website Development",
  			"desc": "desc"
  		},
  		{
- 			"id": 1,
+ 			"id": 5,
  			"name": "UI Design",
  			"desc": "desc"
  		},
 
  		{
- 			"id": 1,
+ 			"id": 6,
  			"name": "Degital Marketing",
  			"desc": "desc"
  		}
