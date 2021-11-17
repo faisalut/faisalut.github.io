@@ -37,35 +37,35 @@
  		{
  			"id": 1,
  			"name": "E-commerce Development",
- 			"desc": "desc"
+ 			"desc": "E-commerce is the activity of buying or selling products on online services or over the Internet. eCommerce is often used to refer to the sale of physical products online, but it can also describe any kind of commercial transaction that is facilitated through the internet. In the simplest of terms is essentially buying and selling goods and services electronically using the internet refers to eCommerce."
  		},
 
  		{
  			"id": 2,
  			"name": "Software Development",
- 			"desc": "desc"
+ 			"desc": "Develop softwares based on customer demand and we can add all feature include in your software as you told, we can build ERP softwares based on your demands and also we develop application and website"
  		},
  		{
  			"id": 3,
  			"name": "Mobile App Development",
- 			"desc": "desc"
+ 			"desc": "It act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. we are using Flutter , Ionic and Android for development"
  		},
 
  		{
  			"id": 4,
  			"name": "Website Development",
- 			"desc": "desc"
+ 			"desc": "It is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services,we are using Angular and Leravel for development"
  		},
  		{
  			"id": 5,
  			"name": "UI Design",
- 			"desc": "desc"
+ 			"desc": "A well-developed UI/UX experience can significantly improve the satisfaction of your customers when interacting with your digital platform and applications, which translates into higher conversion rates, repeat business and greater revenue."
  		},
 
  		{
  			"id": 6,
  			"name": "Degital Marketing",
- 			"desc": "desc"
+ 			"desc": "Digital marketing is the process of marketing products or services to potential customers via digital channels and the internet. Digital marketing has the same goals as traditional marketing, the only difference is the medium used to convey the marketing message."
  		}
  	]
 
